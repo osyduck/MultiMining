@@ -15,3 +15,10 @@ About this project?
 This project for my lesson about c#.
 
 I do not guarantee this will work continue
+
+Before you use
+-------------
+*Install NET 3.5
+*Upgrade Browser IE 11
+*Recommended windows 10
+*(RDP User) Allow Internet To Access https://cdnjs.com/
