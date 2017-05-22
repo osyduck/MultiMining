@@ -1,0 +1,17 @@
+{
+  "status": "true",
+  "link": {
+    "gb": "https://www.paypal.me/siradiah/5",
+    "id": "https://my.ipaymu.com/process.htm?product=3571&member=radiahl@yahoo.com&action=donation&send=yes",
+    "bi": "bitcoin:12byGZPP5EesbB2HBMB6UxgpkKUjBjfwcD"
+  },
+  "donations": {
+      "required": "25$",
+      "got": "1$",
+      "to": "06/06/2017"
+    },
+    "explanation": {
+      "id": "admin sekarang membutuhkan donasi kalian untuk membayar hosting, jika hosting tidak di bayar maka program yang dibuat oleh admin tidak akan berkerja!",
+      "en": "Admin now need your donation to pay for hosting, if hosting is not paid then program created by admin will not work!"
+    }
+}
