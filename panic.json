@@ -7,11 +7,11 @@
   },
   "donations": {
       "required": "25$",
-      "got": "1$",
+      "got": "13$",
       "to": "06/06/2017"
     },
     "explanation": {
-      "id": "admin sekarang membutuhkan donasi kalian untuk membayar hosting, jika hosting tidak di bayar maka program yang dibuat oleh admin tidak akan berkerja!",
-      "en": "Admin now need your donation to pay for hosting, if hosting is not paid then program created by admin will not work!"
+      "id": "Admin sekarang membutuhkan donasi kalian untuk membayar vps, jika hosting tidak terbayar maka projek ini akan kami tutup!",
+      "en": "Admin now need your donation to pay for vps, if vps is not paid then this project will stop, after donation is reached we will turn off panic mode. Please support us!!!. "
     }
 }
