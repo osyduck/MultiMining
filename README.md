@@ -35,7 +35,7 @@ What features?
 
 Before you use
 -------------
-* Install NET 4.0&4.5
+* Install NET 4.0&4.5 https://www.raymond.cc/blog/easily-install-all-versions-of-net-framework-plus-hotfixes-with-aio-runtimes/
 * Upgrade Browser IE 11
 * Recommended use windows 10 last build 16199
 * (RDP User) Allow Internet To Access https://cdnjs.com/ and this app (https://api.siakbary.my.id)
